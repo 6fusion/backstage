@@ -5,5 +5,5 @@ log/
 .bundle/
 *.gem
 *.swp
-.rvmrc
-Gemfile.lock
+#.rvmrc
+#Gemfile.lock
